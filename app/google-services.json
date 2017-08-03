@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275595585229",
+    "firebase_url": "https://mysquawker.firebaseio.com",
+    "project_id": "mysquawker",
+    "storage_bucket": "mysquawker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275595585229:android:f7a08dd65855cc47",
+        "android_client_info": {
+          "package_name": "com.example.bhati.mysquawker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275595585229-renul6tpuvosud3pnldq0j2v41nlg249.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB10K79llt97VGI59AE-DuVUPlQH3LkYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

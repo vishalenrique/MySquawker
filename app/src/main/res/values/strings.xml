@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MySquawker</string>
+    
+    <string name="summary_on">Following</string>
+    <string name="summary_off">UnFollowed</string>
+    
+    <string name="asser_key">key_asser</string>
+    <string name="cezanne_key">key_cezanne</string>
+    <string name="jlin_key">key_jlin</string>
+    <string name="lyla_key">key_lyla</string>
+    <string name="nikita_key">key_nikita</string>
+
+    <string name="asser_title">ASSER</string>
+    <string name="cezanne_title">CEZANNE</string>
+    <string name="jlin_title">JLIN</string>
+    <string name="lyla_title">LYLA</string>
+    <string name="nikita_title">NIKITA</string>
+    <string name="date">12m</string>
+    <string name="random_message">hi, my name is vishal bhati and thats it</string>
+
+</resources>
